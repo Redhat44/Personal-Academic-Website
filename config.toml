@@ -103,7 +103,7 @@ canonifyURLs = true
     imperfect = true
     width     = ""
     alt       = "Hugo Future Imperfect"
-
+#
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
     sidebar = 5
