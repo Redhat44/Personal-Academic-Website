@@ -96,7 +96,7 @@ canonifyURLs = true
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/logo1.jpeg"
+    src       = "/img/main/logo.jpg"
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
@@ -151,50 +151,50 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
-  gitlab           = ""
-  stackoverflow    = "" # User Number
-  bitbucket        = ""
-  jsfiddle         = ""
-  codepen          = ""
+  github           = "Redhat44"
+ # gitlab           = ""
+  #stackoverflow    = "" # User Number
+  #bitbucket        = ""
+  #jsfiddle         = ""
+  #codepen          = ""
   # Visual Art Communities
-  deviantart       = ""
-  flickr           = "example"
-  behance          = ""
-  dribbble         = ""
+  #deviantart       = ""
+ # flickr           = "example"
+  #behance          = ""
+  #dribbble         = ""
   # Publishing Communities
-  wordpress        = ""
-  medium           = ""
+  #wordpress        = ""
+  #medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
-  linkedin_company = "examplebusiness"
-  foursquare       = ""
-  xing             = ""
-  slideshare       = ""
+  linkedin         = "colin-wooldridge-ph-d-b7ba536b"
+  #linkedin_company = "examplebusiness"
+  #foursquare       = ""
+  #xing             = ""
+  #slideshare       = ""
   # Social Networks
-  facebook         = "example"
-  googleplus       = ""
-  reddit           = "example"
-  quora            = ""
-  youtube          = ""
-  vimeo            = ""
-  whatsapp         = "" # WhatsApp Number
+  #facebook         = "example"
+  #googleplus       = ""
+  #reddit           = "example"
+  #quora            = ""
+  #youtube          = ""
+  #vimeo            = ""
+  #whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat         = ""
-    qq             = "" # User ID Number
-  instagram        = "example"
-  tumblr           = ""
-  twitter          = "example"
-  skype            = ""
-  snapchat         = ""
-  pinterest        = "example"
-  telegram         = "example"
-  vine             = ""
-  googlescholar    = ""
+   # wechat         = ""
+   # qq             = "" # User ID Number
+  instagram        = "cdw4444"
+#  tumblr           = ""
+ # twitter          = "example"
+ # skype            = ""
+ # snapchat         = ""
+ # pinterest        = "example"
+ # telegram         = "example"
+ # vine             = ""
+  googlescholar    = "9xgwuQwAAAAJ&hl=en"
   orcid            = ""
-  researchgate     = "example"
+  researchgate     = "Colin_Wooldridge2"
   # Email
-  email            = "example"
+  email            = "colin.wooldridge@upb.de"
   ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   
   
